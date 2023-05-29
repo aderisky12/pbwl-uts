@@ -1,0 +1,1 @@
+<h2 style="text-align: center;">Welcome to my warehouse</h2>
